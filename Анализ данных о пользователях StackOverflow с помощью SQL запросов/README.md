@@ -13,7 +13,7 @@
 - **pandas**
 - **seaborn**
 - **matplotlib**
-- **sqlalchemy*
+- **sqlalchemy**
 
 ## Общий вывод
 
