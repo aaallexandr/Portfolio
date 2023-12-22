@@ -11,10 +11,9 @@
 - `Python`
 - `pandas`
 - `sqlalchemy`
-- `Google Slides`
+- `Подготовка презентаций`
 
 ### Результат
 
 - Был подговлен [дашборд](https://public.tableau.com/views/nps_project/1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-- Было обнаружено статистически значимое различие в среднем количестве заказов на клиента между группами. В среднем чеке различия оказались статистически незначимы.
-
+- Была подготовлена [презентация](https://drive.google.com/file/d/1APB-suqL98g9wdb1FW5zhZVIx7LV8dw5/view?usp=sharing) 
