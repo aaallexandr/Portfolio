@@ -8,6 +8,8 @@
 
 - `SQL`
 - `Tableau`
+- `визуализация данных`
+- `построение дашбордов`
 - `Python`
 - `pandas`
 - `sqlalchemy`
