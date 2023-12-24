@@ -17,5 +17,5 @@
 
 ### Результат
 
-- Был подговлен [дашборд](https://public.tableau.com/views/nps_project/1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- Был подготовлен [дашборд](https://public.tableau.com/views/nps_project/1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 - Была подготовлена [презентация](https://drive.google.com/file/d/1APB-suqL98g9wdb1FW5zhZVIx7LV8dw5/view?usp=sharing) 
