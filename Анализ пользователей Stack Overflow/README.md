@@ -7,6 +7,7 @@
 ### Навыки и инструменты
 
 - `SQL`
+- `PostgreSQL`
 - `оконные функции`
 - `sqlalchemy`
 - `Python`
